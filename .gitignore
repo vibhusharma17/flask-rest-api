@@ -1,0 +1,32 @@
+.idea
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+
+
+
+# pyenv
+.python-version
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+env1/
+
+# databases
+*.sqlite
+*.DS_Store
+
+# dirs
+/tmp

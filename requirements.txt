@@ -1,0 +1,12 @@
+aiohttp==3.7.1
+celery==5.0.1
+dependency-injector==4.1.0
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.4.4
+marshmallow==3.8.0
+Pillow==8.0.1
+python-dotenv==0.14.0
+redis==3.5.3
+SQLAlchemy==1.3.20
